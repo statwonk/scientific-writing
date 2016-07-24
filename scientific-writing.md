@@ -1,14 +1,3 @@
----
-title: "Scientific Writing"
-author: "Statwonk"
-date: "July 24, 2016"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # Notes
 
 Source: _The Craft of Scientific Writing: 3rd Ed. New York: Springer-Verlag, 1996. Print._
