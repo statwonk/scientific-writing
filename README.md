@@ -1,6 +1,6 @@
-# Notes
+# Notes on effective scientific writing
 
-Source: _The Craft of Scientific Writing: 3rd Ed. New York: Springer-Verlag, 1996. Print._
+Source: [_The Craft of Scientific Writing: 3rd Ed. New York: Springer-Verlag, 1996. Print._](https://www.amazon.com/Craft-Scientific-Writing-3rd/dp/0387947663)
 
 > [Some] scientist and engineers seek absolutes in scientific writing; they mistakenly treat scientific writing as a science instead of a craft.
 
