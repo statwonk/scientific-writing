@@ -12,11 +12,13 @@ Source: [_The Craft of Scientific Writing: 3rd Ed. New York: Springer-Verlag, 19
 
 ### Audience
 -  Efficiency is key
-    -  Convey the most information in the least amount of **reading time**.
-        -  Avoid saving the best for last, instead position key points so they're quickly noticed.
-    -  Build a bridge to your audience with language, examples and analogies.
+-  Convey the most information in the least amount of **reading time**.
+-  Avoid saving the best for last, instead position key points so they're quickly noticed.
+-  Consider starting with key point, then explain how that key point came to exist.
+-  Realize that only the most dedicated readers will make it to the end of your document. The important thing is that insofar the document is read it yields either information or persuasion.
+-  Build a bridge to your audience with language, examples and analogies.
 -  If your audience is a mix of managers and technical experts, decide which is the primary audience.
-    -  One way to cope with a mixed audience is to write the document body for the more general audience while using footnotes and back matter to fill in the details for technical experts.
+-  One way to cope with a mixed audience is to write the document body for the more general audience while using footnotes and back matter to fill in the details for technical experts.
 -  Use the concept of emphasis (and lack of emphasis) to highlight important points.
 -  Facts alone are not enough, tell the story. It's not lying or dishonest, rather it's crucial for connecting with your audience.
 -  Will the audience scan the document or methodically read what you write?
@@ -34,17 +36,42 @@ _Mechanics_ refers to punctuation, grammar, citation format, footnote format, et
 
 #### Style
 -  Your duty to the audience is to be consice while also remaining accessible to the audience.
-    -  Brevity and accessibility are in tension. Examples and analogies can help readers undertand at the cost of being brief. It's important to carefully balance these goals.
-    -  A long terse list of facts will tire readers. It's important to bridge details and create a fluid document that avoids tiring readers.
+-  Brevity and accessibility are in tension. Examples and analogies can help readers undertand at the cost of being brief. It's important to carefully balance these goals.
+-  A long terse list of facts will tire readers. It's important to bridge details and create a fluid document that avoids tiring readers.
 -  Word choice
-    -  Use words that your audience will be familiar with.
+-  Use words that your audience will be familiar with.
 -  Sentence length
 -  The use of numbers, equations, graphs, and abbreviations.
 -  Clarity is of utmost importance.
-    -  Avoid extraneous things
-    -  Be precise
-    -  Be direct
-    -  Be explicit
+-  Avoid extraneous things
+-  Be precise
+-  Be direct
+-  Be explicit
+
+#### Structure
+
+##### The beginning
+
+-  Use the beginning of the document to clear up any doubts the title may cause.
+-  For informational documents, sell the key points of the document.
+-  For pursuasive documents, avoid turning off readers and save the statement of your result for the end. Instead, set the context for the decision or argument and prepare the reader for the body of the document.
+-  Communicate the importance of the work here. Give readers a reason to keep reading.
+-  Share the questions or reasons you were curious enough to investigate in the first place.
+-  Prepare the reader for the body (middle) of the document.
+-  Address the scope and limitations of the work.
+-  Give the reader a simple map that defines the rest of the document. The longer the document, the detailed the map. e.g. - "The first section ..."
+
+##### The middle
+-  Be sure to document any jargon or key terms with footnotes.
+-  Choose a theme for the section headings / narration of the story. e.g. - cause and effect or chronological.
+
+##### The end
+
+###### Titles
+-  Two major goals:
+-  Identifies the topic
+-  Separates the topic from similar topics
+-  The Google test. Does the title help the document stand out? Is it easy to find?
 
 The following snippet from _John Locke, An Essay Concerning Human Understanding (1690)_ is very poignent:
 
@@ -65,11 +92,11 @@ Restated, these principles might be listed:
 -  Is the purpose informative, or pursuasive?
 -  Honesty is important.
 -  Politics are always and forever present and will affect how you write a document.
-    -  Avoid black and white thinking with respect to political pressures.
-    -  Consider ethical dilemmas that arise carefully. The magnitude of their importance / tension will vary widely --- it's up to you to decide where to make a stand and where to compromise.
+-  Avoid black and white thinking with respect to political pressures.
+-  Consider ethical dilemmas that arise carefully. The magnitude of their importance / tension will vary widely --- it's up to you to decide where to make a stand and where to compromise.
 -  It's important to consider and act on your ethical responsibilitiy.
 
 #### Pursuasive
 -  Start with undisputed facts.
 -  Seek to work from undisputed facts towards conclusions using logic-based arguments step-by-step.
-    -  Build credibility with the audience with each logic-based argument.
+-  Build credibility with the audience with each logic-based argument.
